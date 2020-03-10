@@ -1,6 +1,10 @@
+urzytkownik
+lista znajomych
 logowanie
+status urzytkownika
 pokoje
 pokoje prywatne
+nieprzeczytane wiadomości
 historia chatu
 uprawnienia
 grupy
@@ -10,3 +14,9 @@ usuwanie i edycja wiadomości
 usuwanie wiadomości po określonym czasie
 Wzmianki urzytkownicy/pokoje
 Wewnętrzne linki
+system reputacji
+system logów
+zaproszenia trzeba zaakcjeptowac
+hisoria ników
+zmiana ników
+tagi ników
