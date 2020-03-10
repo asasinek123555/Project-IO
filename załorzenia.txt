@@ -1,0 +1,12 @@
+logowanie
+pokoje
+pokoje prywatne
+historia chatu
+uprawnienia
+grupy
+synchronizacja pod ftp
+predefinicja podstawowych uprawnień
+usuwanie i edycja wiadomości
+usuwanie wiadomości po określonym czasie
+Wzmianki urzytkownicy/pokoje
+Wewnętrzne linki
