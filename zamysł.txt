@@ -1,0 +1,4 @@
+sama logika aplikacji będzie zrobiona w php
+aplikacja użytkownika natomiast będzie w html, js, css i tym samym będzie tu użyty bootstrap
+do połączenia aplikacji użytkownika i aplikacji servera będzie użyte api napisane w php
+do połączenia aplikacji z bazą danych będzie użyty sql
